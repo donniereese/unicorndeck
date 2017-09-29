@@ -1,5 +1,11 @@
 # unicorndeck
-My Deck and source information for my Unicorn talk.
+
+> Unicorns don't exist, but titles suck and job descriptions are crippling. Even if unicorns don't really exist people
+> do and people can do things and make things on the internet and be awesome.  Job titles and descriptions can cause a
+> lot of anxiety and people's opinions on job titles don't help either. The web is built on people who generalize and do
+> it all, even if they don't call themselves unicorns.
+
+This was my deck and resources from my first Brown Bag talk at Lambda School.
 
 ![center](https://www.spreadshirt.ca/image-server/v1/mp/designs/1011202729,width=178,height=178/farting-unicorn.png)
 
