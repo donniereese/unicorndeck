@@ -22,3 +22,5 @@ Resources Referenced:
 * [The Myth Of The Myth Of The Unicorn Designer](https://www.forbes.com/sites/quora/2013/06/27/the-myth-of-the-myth-of-the-unicorn-designer/#77d19716baf3)
 * [https://medium.com/@katherinemartinez/the-unicorn-hybrid-designer-developer-5e89607d5fe0](https://medium.com/@katherinemartinez/the-unicorn-hybrid-designer-developer-5e89607d5fe0)
 * [https://www.webdesignerdepot.com/2015/04/how-to-be-a-unicorn-and-why-you-should/](https://www.webdesignerdepot.com/2015/04/how-to-be-a-unicorn-and-why-you-should/)
+
+(this will be a running list of information)
